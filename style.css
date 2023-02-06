@@ -9,3 +9,13 @@ body {
   align-items: center;
   font-family: "Itim", cursive;
 }
+
+.container {
+  background: rgba(255, 255, 255, 0.3);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  box-shadow: 0 10px 14px rgba(0, 0, 0, 0.3);
+  margin: 5px;
+}
